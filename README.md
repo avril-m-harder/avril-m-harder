@@ -1,9 +1,7 @@
 ### Avril M. Harder, PhD 
 👩‍💻 **Pronouns:** she/her</br>
 🧬 **Currently:** NSF Postdoc in Janna Willoughby's lab at Auburn's School of Forestry and Wildlife Sciences studying fitness in kangaroo rats 🦘🐀</br>
-⏳ **Previously:**</br>
-  - PhD from Purdue EEB in 2020 studying Atlantic salmon evolution 🐟 with Mark Christie
-  - MS from Central Michigan University in 2015 studying Antarctic sea spider phylogeography 🌊🕷 with Andy Mahon
+⏳ **Previously:** PhD from Purdue EEB in 2020 on Atlantic salmon evolution 🐟, MS from Central Michigan University in 2015 studying Antarctic sea spider phylogeography 🌊🕷
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
