@@ -1,7 +1,7 @@
 ### Avril M. Harder, PhD 
-- 👩‍💻 Pronouns: she/her
-- 🧬 Currently: an NSF Postdoc in Janna Willoughby's lab at Auburn's School of Forestry and Wildlife Sciences studying fitness in kangaroo rats 🦘🐀
-- ⏳ Previously: PhD from Purdue EEB in 2020 studying Atlantic salmon with Mark Christie
+- 👩‍💻 **Pronouns:** she/her
+- 🧬 **Currently:** NSF Postdoc in Janna Willoughby's lab at Auburn's School of Forestry and Wildlife Sciences studying fitness in kangaroo rats 🦘🐀
+- ⏳ **Previously:** PhD from Purdue EEB in 2020 studying Atlantic salmon with Mark Christie 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
