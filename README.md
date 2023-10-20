@@ -1,6 +1,7 @@
 ### Avril M. Harder, PhD 
-- 🧬 **Currently:** NSF Postdoc in Janna Willoughby's lab at Auburn University studying fitness in kangaroo rats </br>
+- 🧬 **Currently:** Computational Biologist on the Evolutionary Analysis Team at HudsonAlpha's Genome Sequencing Center </br>
 - ⏳ **Previously:**
+  - NSF Postdoc, Janna Willoughby's lab at Auburn University, kangaroo rat fitness   
   - PhD, Purdue Ecology and Evolutionary Biology, Atlantic salmon evolution (2020)
   - MS, Central Michigan University Biology, Antarctic sea spider phylogeography (2015)
 - 💻 **Research website:** https://avril-m-harder.github.io 
