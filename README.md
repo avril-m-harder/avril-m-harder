@@ -1,5 +1,6 @@
 ### Avril M. Harder, PhD 
 - 🧬 **Currently:** Computational Biologist on the Evolutionary Analysis Team at HudsonAlpha's Genome Sequencing Center </br>
+  - Building, assessing, and trying to apply pangenome graphs in diverse plant species
 - ⏳ **Previously:**
   - NSF Postdoc, Janna Willoughby's lab at Auburn University, kangaroo rat fitness (2021-2023)
   - PhD, Purdue Ecology and Evolutionary Biology, Atlantic salmon evolution (2020)
